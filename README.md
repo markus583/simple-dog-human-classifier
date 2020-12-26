@@ -1,1 +1,1 @@
-# simple-dog-human-classifier
+# simple-dog-classifiers
